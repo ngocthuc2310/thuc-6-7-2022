@@ -1,0 +1,50 @@
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\bin\Debug\UngDung1.exe.config
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\bin\Debug\UngDung1.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\bin\Debug\UngDung1.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.Properties.Resources.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.csproj.GenerateResource.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.Form1.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.FormTinhTong.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.FormPTB1.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\bin\Debug\UngDung1.exe.manifest
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\bin\Debug\UngDung1.application
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.exe.manifest
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.application
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.FormPTb2.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.FormDangNhap.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.FormNhanVien.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\bin\Debug\Data\NhanVien.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.csproj.CopyComplete
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.FormThemNhanVien.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.FormSuaNhanVien.resources
+F:\C++C# ASP NET CSS JS\Github\Main\LapTrinhCanBan1506\UngDung1\bin\Debug\Data\NhanVien.json
+F:\C++C# ASP NET CSS JS\Github\Main\LapTrinhCanBan1506\UngDung1\bin\Debug\UngDung1.exe.config
+F:\C++C# ASP NET CSS JS\Github\Main\LapTrinhCanBan1506\UngDung1\bin\Debug\UngDung1.exe.manifest
+F:\C++C# ASP NET CSS JS\Github\Main\LapTrinhCanBan1506\UngDung1\bin\Debug\UngDung1.application
+F:\C++C# ASP NET CSS JS\Github\Main\LapTrinhCanBan1506\UngDung1\bin\Debug\UngDung1.exe
+F:\C++C# ASP NET CSS JS\Github\Main\LapTrinhCanBan1506\UngDung1\bin\Debug\UngDung1.pdb
+F:\C++C# ASP NET CSS JS\Github\Main\LapTrinhCanBan1506\UngDung1\bin\Debug\Newtonsoft.Json.dll
+F:\C++C# ASP NET CSS JS\Github\Main\LapTrinhCanBan1506\UngDung1\bin\Debug\Newtonsoft.Json.xml
+F:\C++C# ASP NET CSS JS\Github\Main\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.csproj.AssemblyReference.cache
+F:\C++C# ASP NET CSS JS\Github\Main\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.Form1.resources
+F:\C++C# ASP NET CSS JS\Github\Main\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.FormDangNhap.resources
+F:\C++C# ASP NET CSS JS\Github\Main\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.FormNhanVien.resources
+F:\C++C# ASP NET CSS JS\Github\Main\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.FormPTB1.resources
+F:\C++C# ASP NET CSS JS\Github\Main\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.FormPTb2.resources
+F:\C++C# ASP NET CSS JS\Github\Main\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.FormSuaNhanVien.resources
+F:\C++C# ASP NET CSS JS\Github\Main\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.FormThemNhanVien.resources
+F:\C++C# ASP NET CSS JS\Github\Main\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.FormTinhTong.resources
+F:\C++C# ASP NET CSS JS\Github\Main\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.Properties.Resources.resources
+F:\C++C# ASP NET CSS JS\Github\Main\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.csproj.GenerateResource.cache
+F:\C++C# ASP NET CSS JS\Github\Main\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.csproj.CoreCompileInputs.cache
+F:\C++C# ASP NET CSS JS\Github\Main\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.exe.manifest
+F:\C++C# ASP NET CSS JS\Github\Main\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.application
+F:\C++C# ASP NET CSS JS\Github\Main\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.csproj.CopyComplete
+F:\C++C# ASP NET CSS JS\Github\Main\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.exe
+F:\C++C# ASP NET CSS JS\Github\Main\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.pdb
